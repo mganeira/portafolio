@@ -1,4 +1,4 @@
-# ¡Hola, soy [Mariel Gajardo]
+# ¡Hola, soy Mariel Gajardo!
 
 💻 Desarrollador **Full-Stack** apasionada por cambiar el mundo con la tecnología.  
 🎯 En constante aprendizaje de nuevas tecnologías y buenas prácticas en desarrollo ágil.  
