@@ -35,7 +35,7 @@
 ##  Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)]()  
-[![Correo](https://img.shields.io/badge/Correo%20personal-tuemail%40gmail.com-red)](mailto:mganeira@gmail.com)  
+[![Correo](mailto:mganeira@gmail.com)  
 
 ---
 
